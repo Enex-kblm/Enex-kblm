@@ -7,12 +7,12 @@
 <div align="center">
  <p align='center'>
   <a href="#"><img
-   src="https://github-readme-stats.vercel.app/api?username=Sxp-ID&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"
+   src="https://github-readme-stats.vercel.app/api?username=enex-kblm&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"
    width="400" title="maskprivate1457 Github Starts"></a>
  </p>
  <p align='center'>
   <a href="#"><img
-   src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sxp-ID&layout=compact&theme=chartreuse-dark"
+   src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=enex-kblm&layout=compact&theme=chartreuse-dark"
    width="400" title="Most Used Languages"></a></p>
  </p>
 </div>
